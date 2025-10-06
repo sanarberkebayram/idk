@@ -1,5 +1,3 @@
-use once_cell::sync::Lazy;
-
 #[macro_export]
 macro_rules! create_config_struct {
     (
