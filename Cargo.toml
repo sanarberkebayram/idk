@@ -1,0 +1,16 @@
+[package]
+name = "idk"
+version = "0.1.0"
+edition = "2024"
+authors = ["Sanar Berke Bayram <sanarberkebayram@gmail.com>"]
+description = "Initialize Default Keys - A Rust macro to generate config structs from environment variables easily"
+license = "MIT"
+repository = "https://github.com/sanarberkebayram/idk"
+keywords = ["config", "environment", "macro", "dotenv"]
+categories = ["configuration", "development-tools"]
+readme = "README.md"
+homepage = "https://github.com/sanarberkebayram/idk"
+
+[dependencies]
+dotenvy = "0.15.7"
+once_cell = "1.21.3"
