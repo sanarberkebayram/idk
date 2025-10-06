@@ -7,7 +7,7 @@ description = "Initialize Default Keys - A Rust macro to generate config structs
 license = "MIT"
 repository = "https://github.com/sanarberkebayram/idk"
 keywords = ["config", "environment", "macro", "dotenv"]
-categories = ["configuration", "development-tools"]
+categories = ["config", "development-tools"]
 readme = "README.md"
 homepage = "https://github.com/sanarberkebayram/idk"
 
