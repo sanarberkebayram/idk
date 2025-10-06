@@ -1,4 +1,4 @@
-# Configify
+# IDK 0 Initialize Default Keys
 
 `IDK` is a simple Rust macro to generate configuration structs from environment variables.  
 It supports default values, required variables, and uses `once_cell` for lazy static access.
@@ -11,7 +11,7 @@ Add to `Cargo.toml`:
 idk = "0.1.0"
 ```
 ```rust
-use configify::create_config_struct;
+use sanar-idk::create_config_struct;
 
 create_config_struct! {
     #[derive(Debug, Clone)]
