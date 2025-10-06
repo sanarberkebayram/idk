@@ -8,7 +8,7 @@ It supports default values, required variables, and uses `once_cell` for lazy st
 Add to `Cargo.toml`:
 
 ```toml
-idk = "0.1.0"
+sanar-idk = "0.1.0"
 ```
 ```rust
 use sanar-idk::create_config_struct;
