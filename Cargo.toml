@@ -1,6 +1,6 @@
 [package]
 name = "sanar-idk"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Sanar Berke Bayram <sanarberkebayram@gmail.com>"]
 description = "Initialize Default Keys - A Rust macro to generate config structs from environment variables easily"
