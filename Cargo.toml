@@ -1,5 +1,5 @@
 [package]
-name = "idk"
+name = "sanar-idk"
 version = "0.1.0"
 edition = "2024"
 authors = ["Sanar Berke Bayram <sanarberkebayram@gmail.com>"]

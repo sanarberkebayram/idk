@@ -1,4 +1,4 @@
-use idk::create_config_struct;
+use sanar_idk::create_config_struct;
 
 create_config_struct! {
     #[derive(Debug, Clone)]
